@@ -1,0 +1,15 @@
+* {
+  box-sizing: box-sizing;
+}
+
+h2 {
+  color: blue;
+}
+
+.orange {
+  color: orange;
+}
+
+.red {
+  color: red;
+}
